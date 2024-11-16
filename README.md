@@ -2,12 +2,7 @@
 
 # Overview
 
-This project focuses on analyzing house sale prices in King County, including Seattle, over a one-year period from May 2014 to May 2015. The goal is to perform a comprehensive analysis including data loading, visualization, return calculations, and portfolio analysis tailored to the real estate sector. This project not only aims to strengthen your Python skills but also deepens your understanding of real estate financial data and enhances your analytical capabilities.
-
-
-# Setup
-
-The project will be completed in teams, with different components of the analysis tackled over three days. It is designed to simulate real-world real estate analysis scenarios, fostering collaborative problem-solving and practical application of Python in real estate finance.
+This project focuses on analyzing house sale prices in King County, including Seattle, over a one-year period from May 2014 to May 2015. The goal is to perform a comprehensive analysis including data loading, visualization, return calculations, and portfolio analysis tailored to the real estate sector. This project not only aims to strengthen my Python skills but also deepens my understanding of real estate financial data and enhances my analytical capabilities.
 
 
 # Dataset
@@ -70,10 +65,6 @@ Data Visualization: Create visualizations to illustrate market trends and relati
 Portfolio Analysis: Evaluate returns and risks associated with high-value properties (>$650K).
 
 
-# Collaboration
-
-This project is structured for teamwork. Over three days, each team member will tackle different components of the analysis, sharing insights to build a comprehensive understanding of the King County real estate market.
-
 
 # Tools Used
 
@@ -91,5 +82,7 @@ Jupyter Notebook: for documentation and presentation of the analysis.
 data/: Contains the dataset with house sale information.
 
 notebooks/: Jupyter Notebooks with analysis and visualizations.
+
+
 
 
